@@ -2,6 +2,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-lorenzo76&layout=donut)](https://github.com/c-lorenzo76/github-readme-stats)
 
+![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=c-lorenzo76&show_icons=true&theme=transparent)
+
 <!--
 **c-lorenzo76/c-lorenzo76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
