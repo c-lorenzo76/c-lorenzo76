@@ -2,7 +2,7 @@
 
 <div align="center">
   <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-lorenzo76&layout=donut"/></a>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=c-lorenzo76" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=c-lorenzo76&theme=transparent&hide_border=false" alt="GitHub Streak" /></a>
 </div>
 
 
