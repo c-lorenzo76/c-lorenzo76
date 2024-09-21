@@ -1,11 +1,16 @@
-## Howdy 👋
+## Howdy 👋 
+
+- 🌐 Visit my [portfolio website](https://c-lorenzo76.github.io/Portfolio) for more information and to get in touch.
+- 🎓 B.S. Computer Science, Data Science & Big Data concentration
+
+---
 
 <div align="center">
-  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-lorenzo76&layout=donut" width="45%" /></a>
+  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-lorenzo76&layout=donut" width="45%"/></a>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=c-lorenzo&hide_border=true" alt="GitHub Streak" width="45%" /></a>
 </div>
 
-
+---
 
 <!--
 **c-lorenzo76/c-lorenzo76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
