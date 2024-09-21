@@ -6,7 +6,7 @@
 ---
 
 <div align="center">
-  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-lorenzo76&hide_progress=true" width="45%"/></a>
+  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-lorenzo76&hide_progress=true" height="195px" width="45%"/></a>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=c-lorenzo76&hide_border=true" alt="GitHub Streak" width="45%" /></a>
 </div>
 
