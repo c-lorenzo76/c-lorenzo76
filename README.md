@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-lorenzo76&layout=donut)](https://github.com/c-lorenzo76/github-readme-stats)
 
-![Cristian Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=c-lorenzo76&theme=transparent&hide_border=false)
+[![GitHub Streak](https://streak-stats.demolab.com?user=c-lorenzo76)](https://git.io/streak-stats)
 
 <!--
 **c-lorenzo76/c-lorenzo76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
