@@ -3,9 +3,9 @@
 - 🎓 B.S. Computer Science, Data Science & Big Data concentration
 ---
 <div align="center">
-  <a>
+  <!-- <a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-lorenzo76&hide_progress=true" width="34%" />
-  </a>
+  </a> -->
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=c-lorenzo76&hide_border=true" alt="GitHub Streak" width="40%" />
   </a>
